@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\bin\Debug\Uchedigan Qush.exe.config
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\bin\Debug\Uchedigan Qush.exe
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\bin\Debug\Uchedigan Qush.pdb
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan_Qush.Form1.resources
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan_Qush.Properties.Resources.resources
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.exe
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.pdb
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\bin\Debug\Uchedigan Qush.exe.manifest
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\bin\Debug\Uchedigan Qush.application
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.exe.manifest
+C:\Users\user\source\repos\Uchedigan Qush\Uchedigan Qush\obj\Debug\Uchedigan Qush.application
